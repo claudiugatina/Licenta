@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1529265155 source:d:\programs\codeblocks\projs\licenta\main.cpp
+	<string.h>
+	<ctime>
+	<iostream>
+	<vector>
+	<stack>
+	<queue>
+	<math.h>
+	<cstdio>
+	<cstdlib>
+	<fstream>
+
+1515092467 source:d:\programs\codeblocks\projs\licenta\coloringalgorithms.cpp
+	"coloringalgorithms.h"
+
+1515092467 d:\programs\codeblocks\projs\licenta\coloringalgorithms.h
+
